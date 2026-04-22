@@ -1,4 +1,4 @@
-# Hybrid Quantum-Classical Image Denoising (CNN + VQC)
+# Hybrid Quantum-Classical Image Denoising (CNN and VQC)
 
 This project explores a hybrid deep learning approach that combines Convolutional Neural Networks (CNNs) with Variational Quantum Circuits (VQC) for image denoising. The goal is to investigate whether quantum feature transformations can enhance classical image restoration performance.
 
